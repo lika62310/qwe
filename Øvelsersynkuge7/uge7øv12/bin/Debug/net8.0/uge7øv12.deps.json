@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "uge7øv12/1.0.0": {
+        "runtime": {
+          "uge7øv12.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "uge7øv12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

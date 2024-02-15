@@ -1,0 +1,14 @@
+C:\Users\karga\source\repos\Øvelsersynkuge7\Øvelsersynkuge7\obj\Debug\net8.0\Øvelsersynkuge7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karga\source\repos\Øvelsersynkuge7\Øvelsersynkuge7\obj\Debug\net8.0\Øvelsersynkuge7.AssemblyInfoInputs.cache
+C:\Users\karga\source\repos\Øvelsersynkuge7\Øvelsersynkuge7\obj\Debug\net8.0\Øvelsersynkuge7.AssemblyInfo.cs
+C:\Users\karga\source\repos\Øvelsersynkuge7\Øvelsersynkuge7\obj\Debug\net8.0\Øvelsersynkuge7.csproj.CoreCompileInputs.cache
+C:\Users\karga\source\repos\Øvelsersynkuge7\Øvelsersynkuge7\bin\Debug\net8.0\Øvelsersynkuge7.exe
+C:\Users\karga\source\repos\Øvelsersynkuge7\Øvelsersynkuge7\bin\Debug\net8.0\Øvelsersynkuge7.deps.json
+C:\Users\karga\source\repos\Øvelsersynkuge7\Øvelsersynkuge7\bin\Debug\net8.0\Øvelsersynkuge7.runtimeconfig.json
+C:\Users\karga\source\repos\Øvelsersynkuge7\Øvelsersynkuge7\bin\Debug\net8.0\Øvelsersynkuge7.dll
+C:\Users\karga\source\repos\Øvelsersynkuge7\Øvelsersynkuge7\bin\Debug\net8.0\Øvelsersynkuge7.pdb
+C:\Users\karga\source\repos\Øvelsersynkuge7\Øvelsersynkuge7\obj\Debug\net8.0\Øvelsersynkuge7.dll
+C:\Users\karga\source\repos\Øvelsersynkuge7\Øvelsersynkuge7\obj\Debug\net8.0\refint\Øvelsersynkuge7.dll
+C:\Users\karga\source\repos\Øvelsersynkuge7\Øvelsersynkuge7\obj\Debug\net8.0\Øvelsersynkuge7.pdb
+C:\Users\karga\source\repos\Øvelsersynkuge7\Øvelsersynkuge7\obj\Debug\net8.0\Øvelsersynkuge7.genruntimeconfig.cache
+C:\Users\karga\source\repos\Øvelsersynkuge7\Øvelsersynkuge7\obj\Debug\net8.0\ref\Øvelsersynkuge7.dll

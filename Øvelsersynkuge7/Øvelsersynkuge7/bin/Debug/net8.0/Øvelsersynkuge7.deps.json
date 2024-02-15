@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Øvelsersynkuge7/1.0.0": {
+        "runtime": {
+          "Øvelsersynkuge7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Øvelsersynkuge7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
