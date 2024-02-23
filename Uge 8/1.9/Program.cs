@@ -1,0 +1,23 @@
+﻿namespace _1._9
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Skriv noget:");
+            string str = Console.ReadLine();
+            int length = str.Length;
+            int index = 0;
+
+            while (length > index)
+            {
+                char ch = str[index];
+                if (index % 2 == 0)
+                {
+                    Console.WriteLine(index + ": " + ch);
+                }
+                index++;
+            }
+        }
+    }
+}

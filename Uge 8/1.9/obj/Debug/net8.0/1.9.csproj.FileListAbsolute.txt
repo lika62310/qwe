@@ -1,0 +1,14 @@
+C:\Users\karga\source\repos\Uge 8\1.9\obj\Debug\net8.0\1.9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karga\source\repos\Uge 8\1.9\obj\Debug\net8.0\1.9.AssemblyInfoInputs.cache
+C:\Users\karga\source\repos\Uge 8\1.9\obj\Debug\net8.0\1.9.AssemblyInfo.cs
+C:\Users\karga\source\repos\Uge 8\1.9\obj\Debug\net8.0\1.9.csproj.CoreCompileInputs.cache
+C:\Users\karga\source\repos\Uge 8\1.9\bin\Debug\net8.0\1.9.exe
+C:\Users\karga\source\repos\Uge 8\1.9\bin\Debug\net8.0\1.9.deps.json
+C:\Users\karga\source\repos\Uge 8\1.9\bin\Debug\net8.0\1.9.runtimeconfig.json
+C:\Users\karga\source\repos\Uge 8\1.9\bin\Debug\net8.0\1.9.dll
+C:\Users\karga\source\repos\Uge 8\1.9\bin\Debug\net8.0\1.9.pdb
+C:\Users\karga\source\repos\Uge 8\1.9\obj\Debug\net8.0\1.9.dll
+C:\Users\karga\source\repos\Uge 8\1.9\obj\Debug\net8.0\refint\1.9.dll
+C:\Users\karga\source\repos\Uge 8\1.9\obj\Debug\net8.0\1.9.pdb
+C:\Users\karga\source\repos\Uge 8\1.9\obj\Debug\net8.0\1.9.genruntimeconfig.cache
+C:\Users\karga\source\repos\Uge 8\1.9\obj\Debug\net8.0\ref\1.9.dll

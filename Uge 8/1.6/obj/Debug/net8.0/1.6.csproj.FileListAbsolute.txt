@@ -1,0 +1,14 @@
+C:\Users\karga\source\repos\Uge 8\1.6\bin\Debug\net8.0\1.6.exe
+C:\Users\karga\source\repos\Uge 8\1.6\bin\Debug\net8.0\1.6.deps.json
+C:\Users\karga\source\repos\Uge 8\1.6\bin\Debug\net8.0\1.6.runtimeconfig.json
+C:\Users\karga\source\repos\Uge 8\1.6\bin\Debug\net8.0\1.6.dll
+C:\Users\karga\source\repos\Uge 8\1.6\bin\Debug\net8.0\1.6.pdb
+C:\Users\karga\source\repos\Uge 8\1.6\obj\Debug\net8.0\1.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karga\source\repos\Uge 8\1.6\obj\Debug\net8.0\1.6.AssemblyInfoInputs.cache
+C:\Users\karga\source\repos\Uge 8\1.6\obj\Debug\net8.0\1.6.AssemblyInfo.cs
+C:\Users\karga\source\repos\Uge 8\1.6\obj\Debug\net8.0\1.6.csproj.CoreCompileInputs.cache
+C:\Users\karga\source\repos\Uge 8\1.6\obj\Debug\net8.0\1.6.dll
+C:\Users\karga\source\repos\Uge 8\1.6\obj\Debug\net8.0\refint\1.6.dll
+C:\Users\karga\source\repos\Uge 8\1.6\obj\Debug\net8.0\1.6.pdb
+C:\Users\karga\source\repos\Uge 8\1.6\obj\Debug\net8.0\1.6.genruntimeconfig.cache
+C:\Users\karga\source\repos\Uge 8\1.6\obj\Debug\net8.0\ref\1.6.dll
