@@ -1,0 +1,14 @@
+C:\Users\karga\source\repos\Yatzy\Hold\bin\Debug\net8.0\Hold.exe
+C:\Users\karga\source\repos\Yatzy\Hold\bin\Debug\net8.0\Hold.deps.json
+C:\Users\karga\source\repos\Yatzy\Hold\bin\Debug\net8.0\Hold.runtimeconfig.json
+C:\Users\karga\source\repos\Yatzy\Hold\bin\Debug\net8.0\Hold.dll
+C:\Users\karga\source\repos\Yatzy\Hold\bin\Debug\net8.0\Hold.pdb
+C:\Users\karga\source\repos\Yatzy\Hold\obj\Debug\net8.0\Hold.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karga\source\repos\Yatzy\Hold\obj\Debug\net8.0\Hold.AssemblyInfoInputs.cache
+C:\Users\karga\source\repos\Yatzy\Hold\obj\Debug\net8.0\Hold.AssemblyInfo.cs
+C:\Users\karga\source\repos\Yatzy\Hold\obj\Debug\net8.0\Hold.csproj.CoreCompileInputs.cache
+C:\Users\karga\source\repos\Yatzy\Hold\obj\Debug\net8.0\Hold.dll
+C:\Users\karga\source\repos\Yatzy\Hold\obj\Debug\net8.0\refint\Hold.dll
+C:\Users\karga\source\repos\Yatzy\Hold\obj\Debug\net8.0\Hold.pdb
+C:\Users\karga\source\repos\Yatzy\Hold\obj\Debug\net8.0\Hold.genruntimeconfig.cache
+C:\Users\karga\source\repos\Yatzy\Hold\obj\Debug\net8.0\ref\Hold.dll
