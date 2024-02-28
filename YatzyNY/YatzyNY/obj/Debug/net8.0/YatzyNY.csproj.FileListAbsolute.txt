@@ -1,0 +1,14 @@
+C:\Users\karga\source\repos\YatzyNY\YatzyNY\bin\Debug\net8.0\YatzyNY.exe
+C:\Users\karga\source\repos\YatzyNY\YatzyNY\bin\Debug\net8.0\YatzyNY.deps.json
+C:\Users\karga\source\repos\YatzyNY\YatzyNY\bin\Debug\net8.0\YatzyNY.runtimeconfig.json
+C:\Users\karga\source\repos\YatzyNY\YatzyNY\bin\Debug\net8.0\YatzyNY.dll
+C:\Users\karga\source\repos\YatzyNY\YatzyNY\bin\Debug\net8.0\YatzyNY.pdb
+C:\Users\karga\source\repos\YatzyNY\YatzyNY\obj\Debug\net8.0\YatzyNY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karga\source\repos\YatzyNY\YatzyNY\obj\Debug\net8.0\YatzyNY.AssemblyInfoInputs.cache
+C:\Users\karga\source\repos\YatzyNY\YatzyNY\obj\Debug\net8.0\YatzyNY.AssemblyInfo.cs
+C:\Users\karga\source\repos\YatzyNY\YatzyNY\obj\Debug\net8.0\YatzyNY.csproj.CoreCompileInputs.cache
+C:\Users\karga\source\repos\YatzyNY\YatzyNY\obj\Debug\net8.0\YatzyNY.dll
+C:\Users\karga\source\repos\YatzyNY\YatzyNY\obj\Debug\net8.0\refint\YatzyNY.dll
+C:\Users\karga\source\repos\YatzyNY\YatzyNY\obj\Debug\net8.0\YatzyNY.pdb
+C:\Users\karga\source\repos\YatzyNY\YatzyNY\obj\Debug\net8.0\YatzyNY.genruntimeconfig.cache
+C:\Users\karga\source\repos\YatzyNY\YatzyNY\obj\Debug\net8.0\ref\YatzyNY.dll
