@@ -1,30 +1,34 @@
 ﻿
-namespace YatzyNY
+public class Program
 {
-    internal class Program
+
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
+        //terninger
+        int terning1, terning2, terning3, terning4, terning5;
+        int tern1, tern2, tern3, tern4, tern5;
+        Random rnd = new Random();
+
+        int score = 0;
+        int total = 0;
+        int total2 = 0;
+        int sum = 0;
+        int sum1 = 0;
+        int sum2 = 0;
+        int sum3 = 0;
+        int sum4 = 0;
+        int sum5 = 0;
+        int sum6 = 0;
+        int score1 = 0;
+        int score2 = 0;
+
+
+        //runder
+        for (int i = 0; i < 15; i++)
         {
-            //terninger
-            int terning1, terning2, terning3, terning4, terning5;
-            int tern1, tern2, tern3, tern4, tern5;
-            Random rnd = new Random();
-
-            int score = 0;
-            int total = 0;
-            int sum = 0;
-            int sum1 = 0;
-            int sum2 = 0;
-            int sum3 = 0;
-            int sum4 = 0;
-            int sum5 = 0;
-            int sum6 = 0;
-
-
-            //runder
-            for (int i = 0; i < 15; i++)
+            for (int l = 0; l < 2; l++)
             {
-                Console.WriteLine("Runde " + (i + 1));
+                Console.WriteLine("Runde " + (i + 1) + ", Spiller " + (l + 1));
 
                 terning1 = rnd.Next(1, 7);
                 terning2 = rnd.Next(1, 7);
@@ -179,7 +183,6 @@ namespace YatzyNY
 
                 }
 
-
                 // Yatzy
                 if (sum1 == 5 || sum2 == 5 || sum3 == 5 || sum4 == 5 || sum5 == 5)
                 {
@@ -188,7 +191,7 @@ namespace YatzyNY
                 }
 
                 //Fuldt hus
-                else if ((sum1 == 2 || sum2 == 2 || sum3 == 2 || sum4 == 2 || sum5 == 2 || sum6 == 2) && (sum1 == 3 || sum2 == 3 || sum3 == 3 || sum4 == 3 || sum5 == 3 || sum6 ==3))
+                else if ((sum1 == 2 || sum2 == 2 || sum3 == 2 || sum4 == 2 || sum5 == 2 || sum6 == 2) && (sum1 == 3 || sum2 == 3 || sum3 == 3 || sum4 == 3 || sum5 == 3 || sum6 == 3))
                 {
                     score = score + 35;
                     Console.WriteLine("Fuldt hus");
@@ -240,7 +243,6 @@ namespace YatzyNY
 
 
 
-
                 Console.WriteLine("Antal 1'ere: " + sum1);
                 Console.WriteLine("Antal 2'ere : " + sum2);
                 Console.WriteLine("Antal 3'ere : " + sum3);
@@ -253,16 +255,30 @@ namespace YatzyNY
                 sum4 = 0;
                 sum5 = 0;
                 sum6 = 0;
-                total = total + score;
+                //total = total + score;
+                //total2 = total2 + score;
                 Console.ReadLine();
+
                 Console.WriteLine("Score for runden: " + score);
-                Console.WriteLine("Samlet score: " + total);
+                if (l == 0)
+                {
+                    total = total + score;
+                    Console.WriteLine("Samlet score: " + total);
+                }
+                else if (l == 1)
+                {
+                    total2 = total2 + score;
+                    Console.WriteLine("Samlet score: " + total2);
+                }
                 score = 0;
+
             }
-            //Console.WriteLine("Score for denne runde er: " + score);
-            //Console.WriteLine("Samlet score: " + sum + "\n");
-            //Console.WriteLine("Antal ettere: " + sum1);
-            //Console.WriteLine("Antal toere : " + sum2);
+
+
         }
+        //Console.WriteLine("Score for denne runde er: " + score);
+        //Console.WriteLine("Samlet score: " + sum + "\n");
+        //Console.WriteLine("Antal ettere: " + sum1);
+        //Console.WriteLine("Antal toere : " + sum2);
     }
 }

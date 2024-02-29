@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\YatzyNY\\YatzyNY\\YatzyNY.csproj": {}
+    "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\YatzyNY\\2Player\\2Player.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\YatzyNY\\YatzyNY\\YatzyNY.csproj": {
+    "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\YatzyNY\\2Player\\2Player.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\YatzyNY\\YatzyNY\\YatzyNY.csproj",
-        "projectName": "YatzyNY",
-        "projectPath": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\YatzyNY\\YatzyNY\\YatzyNY.csproj",
+        "projectUniqueName": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\YatzyNY\\2Player\\2Player.csproj",
+        "projectName": "2Player",
+        "projectPath": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\YatzyNY\\2Player\\2Player.csproj",
         "packagesPath": "C:\\Users\\karga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\YatzyNY\\YatzyNY\\obj\\",
+        "outputPath": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\YatzyNY\\2Player\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karga\\AppData\\Roaming\\NuGet\\NuGet.Config",
