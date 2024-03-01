@@ -1,0 +1,15 @@
+C:\Users\karga\Desktop\LK\Projekter\qwe\YatzyNY\Yatzy1\bin\Debug\net8.0\Yatzy1.exe
+C:\Users\karga\Desktop\LK\Projekter\qwe\YatzyNY\Yatzy1\bin\Debug\net8.0\Yatzy1.deps.json
+C:\Users\karga\Desktop\LK\Projekter\qwe\YatzyNY\Yatzy1\bin\Debug\net8.0\Yatzy1.runtimeconfig.json
+C:\Users\karga\Desktop\LK\Projekter\qwe\YatzyNY\Yatzy1\bin\Debug\net8.0\Yatzy1.dll
+C:\Users\karga\Desktop\LK\Projekter\qwe\YatzyNY\Yatzy1\bin\Debug\net8.0\Yatzy1.pdb
+C:\Users\karga\Desktop\LK\Projekter\qwe\YatzyNY\Yatzy1\obj\Debug\net8.0\Yatzy1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karga\Desktop\LK\Projekter\qwe\YatzyNY\Yatzy1\obj\Debug\net8.0\Yatzy1.AssemblyInfoInputs.cache
+C:\Users\karga\Desktop\LK\Projekter\qwe\YatzyNY\Yatzy1\obj\Debug\net8.0\Yatzy1.AssemblyInfo.cs
+C:\Users\karga\Desktop\LK\Projekter\qwe\YatzyNY\Yatzy1\obj\Debug\net8.0\Yatzy1.csproj.CoreCompileInputs.cache
+C:\Users\karga\Desktop\LK\Projekter\qwe\YatzyNY\Yatzy1\obj\Debug\net8.0\Yatzy1.sourcelink.json
+C:\Users\karga\Desktop\LK\Projekter\qwe\YatzyNY\Yatzy1\obj\Debug\net8.0\Yatzy1.dll
+C:\Users\karga\Desktop\LK\Projekter\qwe\YatzyNY\Yatzy1\obj\Debug\net8.0\refint\Yatzy1.dll
+C:\Users\karga\Desktop\LK\Projekter\qwe\YatzyNY\Yatzy1\obj\Debug\net8.0\Yatzy1.pdb
+C:\Users\karga\Desktop\LK\Projekter\qwe\YatzyNY\Yatzy1\obj\Debug\net8.0\Yatzy1.genruntimeconfig.cache
+C:\Users\karga\Desktop\LK\Projekter\qwe\YatzyNY\Yatzy1\obj\Debug\net8.0\ref\Yatzy1.dll

@@ -5,7 +5,9 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YatzyNY", "YatzyNY\YatzyNY.csproj", "{C6A41634-330A-4BAE-8837-A4C11E2C7E71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2Player", "2Player\2Player.csproj", "{997C6794-BAA5-4370-AE13-850ECA050CD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2Player", "2Player\2Player.csproj", "{997C6794-BAA5-4370-AE13-850ECA050CD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yatzy1", "Yatzy1\Yatzy1.csproj", "{13EA0465-B80B-47E8-A915-2280ED89F337}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{997C6794-BAA5-4370-AE13-850ECA050CD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{997C6794-BAA5-4370-AE13-850ECA050CD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{997C6794-BAA5-4370-AE13-850ECA050CD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13EA0465-B80B-47E8-A915-2280ED89F337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13EA0465-B80B-47E8-A915-2280ED89F337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13EA0465-B80B-47E8-A915-2280ED89F337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13EA0465-B80B-47E8-A915-2280ED89F337}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
