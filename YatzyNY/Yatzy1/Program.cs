@@ -6,7 +6,6 @@
         {
             //terninger
             int terning1, terning2, terning3, terning4, terning5;
-            int tern1, tern2, tern3, tern4, tern5;
             Random rnd = new Random();
 
 
@@ -41,7 +40,7 @@
             Console.Write("(1) 1'ere: " + ones + "\n(2) 2'ere: " + twos + "\n(3) 3'ere: " + threes + "\n(4) 4'ere " + fours + "\n(5) 5'ere: " + fives + "\n(6) 6'ere: " + sixes + "\n(7) Et par: " + onepair + "\n(8) To par: " + twopairs + "\n(9) Tre ens: " + threekind + "\n(10) Fire ens: " + fourkind + "\n(11) Lille straight: " + smstraight + "\n(12) Store straight: " + lrstraight + "\n(13) Chancen: " + chance + "\n(14) Yatzy: " + yahtzee + "\n(15) Fuldt hus: " + fullhouse + "\n");
 
             //runder
-            for (int i = 0; i < 2; i++)
+            for (int i = 0; i < 15; i++)
             {
                 Console.WriteLine("Runde " + (i + 1));
 
@@ -248,14 +247,6 @@
                 {
                     Console.WriteLine("Et par");
                 }
-
-                //Tre ens
-                if (sum1 == 3 || sum2 == 3 || sum3 == 3 || sum4 == 3 || sum5 == 3 || sum6 == 3)
-                {
-                    Console.WriteLine("Tre ens");
-
-                }
-
 
 
 
