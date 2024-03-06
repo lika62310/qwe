@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YatzyNY", "YatzyNY\YatzyNY.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2Player", "2Player\2Player.csproj", "{997C6794-BAA5-4370-AE13-850ECA050CD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yatzy1", "Yatzy1\Yatzy1.csproj", "{13EA0465-B80B-47E8-A915-2280ED89F337}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yatzy1", "Yatzy1\Yatzy1.csproj", "{13EA0465-B80B-47E8-A915-2280ED89F337}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YatzyMulti", "YatzyMulti\YatzyMulti.csproj", "{BC0699F3-AE43-4E71-B150-0257D2AA6E8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{13EA0465-B80B-47E8-A915-2280ED89F337}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13EA0465-B80B-47E8-A915-2280ED89F337}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13EA0465-B80B-47E8-A915-2280ED89F337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC0699F3-AE43-4E71-B150-0257D2AA6E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC0699F3-AE43-4E71-B150-0257D2AA6E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC0699F3-AE43-4E71-B150-0257D2AA6E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC0699F3-AE43-4E71-B150-0257D2AA6E8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

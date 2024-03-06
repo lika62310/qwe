@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2Player")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe18d7609fd84fdfb4b7470c435dfda5a05a91a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+756d378df230e833a23f38f452a4cea4af4b39ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("2Player")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2Player")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
