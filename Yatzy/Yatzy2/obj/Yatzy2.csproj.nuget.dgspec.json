@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karga\\source\\repos\\Yatzy\\Yatzy2\\Yatzy2.csproj": {}
+    "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\Yatzy\\Yatzy2\\Yatzy2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karga\\source\\repos\\Yatzy\\Yatzy2\\Yatzy2.csproj": {
+    "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\Yatzy\\Yatzy2\\Yatzy2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karga\\source\\repos\\Yatzy\\Yatzy2\\Yatzy2.csproj",
+        "projectUniqueName": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\Yatzy\\Yatzy2\\Yatzy2.csproj",
         "projectName": "Yatzy2",
-        "projectPath": "C:\\Users\\karga\\source\\repos\\Yatzy\\Yatzy2\\Yatzy2.csproj",
+        "projectPath": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\Yatzy\\Yatzy2\\Yatzy2.csproj",
         "packagesPath": "C:\\Users\\karga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karga\\source\\repos\\Yatzy\\Yatzy2\\obj\\",
+        "outputPath": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\Yatzy\\Yatzy2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karga\\AppData\\Roaming\\NuGet\\NuGet.Config",

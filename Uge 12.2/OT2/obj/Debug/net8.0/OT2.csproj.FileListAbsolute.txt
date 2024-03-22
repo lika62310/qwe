@@ -1,0 +1,14 @@
+C:\Users\karga\source\repos\Uge 12.2\OT2\bin\Debug\net8.0\OT2.exe
+C:\Users\karga\source\repos\Uge 12.2\OT2\bin\Debug\net8.0\OT2.deps.json
+C:\Users\karga\source\repos\Uge 12.2\OT2\bin\Debug\net8.0\OT2.runtimeconfig.json
+C:\Users\karga\source\repos\Uge 12.2\OT2\bin\Debug\net8.0\OT2.dll
+C:\Users\karga\source\repos\Uge 12.2\OT2\bin\Debug\net8.0\OT2.pdb
+C:\Users\karga\source\repos\Uge 12.2\OT2\obj\Debug\net8.0\OT2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karga\source\repos\Uge 12.2\OT2\obj\Debug\net8.0\OT2.AssemblyInfoInputs.cache
+C:\Users\karga\source\repos\Uge 12.2\OT2\obj\Debug\net8.0\OT2.AssemblyInfo.cs
+C:\Users\karga\source\repos\Uge 12.2\OT2\obj\Debug\net8.0\OT2.csproj.CoreCompileInputs.cache
+C:\Users\karga\source\repos\Uge 12.2\OT2\obj\Debug\net8.0\OT2.dll
+C:\Users\karga\source\repos\Uge 12.2\OT2\obj\Debug\net8.0\refint\OT2.dll
+C:\Users\karga\source\repos\Uge 12.2\OT2\obj\Debug\net8.0\OT2.pdb
+C:\Users\karga\source\repos\Uge 12.2\OT2\obj\Debug\net8.0\OT2.genruntimeconfig.cache
+C:\Users\karga\source\repos\Uge 12.2\OT2\obj\Debug\net8.0\ref\OT2.dll

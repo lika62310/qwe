@@ -1,0 +1,14 @@
+C:\Users\karga\source\repos\Uge 12.2\OrangeTree2\bin\Debug\net8.0\OrangeTree2.exe
+C:\Users\karga\source\repos\Uge 12.2\OrangeTree2\bin\Debug\net8.0\OrangeTree2.deps.json
+C:\Users\karga\source\repos\Uge 12.2\OrangeTree2\bin\Debug\net8.0\OrangeTree2.runtimeconfig.json
+C:\Users\karga\source\repos\Uge 12.2\OrangeTree2\bin\Debug\net8.0\OrangeTree2.dll
+C:\Users\karga\source\repos\Uge 12.2\OrangeTree2\bin\Debug\net8.0\OrangeTree2.pdb
+C:\Users\karga\source\repos\Uge 12.2\OrangeTree2\obj\Debug\net8.0\OrangeTree2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karga\source\repos\Uge 12.2\OrangeTree2\obj\Debug\net8.0\OrangeTree2.AssemblyInfoInputs.cache
+C:\Users\karga\source\repos\Uge 12.2\OrangeTree2\obj\Debug\net8.0\OrangeTree2.AssemblyInfo.cs
+C:\Users\karga\source\repos\Uge 12.2\OrangeTree2\obj\Debug\net8.0\OrangeTree2.csproj.CoreCompileInputs.cache
+C:\Users\karga\source\repos\Uge 12.2\OrangeTree2\obj\Debug\net8.0\OrangeTree2.dll
+C:\Users\karga\source\repos\Uge 12.2\OrangeTree2\obj\Debug\net8.0\refint\OrangeTree2.dll
+C:\Users\karga\source\repos\Uge 12.2\OrangeTree2\obj\Debug\net8.0\OrangeTree2.pdb
+C:\Users\karga\source\repos\Uge 12.2\OrangeTree2\obj\Debug\net8.0\OrangeTree2.genruntimeconfig.cache
+C:\Users\karga\source\repos\Uge 12.2\OrangeTree2\obj\Debug\net8.0\ref\OrangeTree2.dll

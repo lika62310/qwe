@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karga\\source\\repos\\Yatzy\\Yatzykombi\\Yatzykombi.csproj",
+      "projectUniqueName": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\Yatzy\\Yatzykombi\\Yatzykombi.csproj",
       "projectName": "Yatzykombi",
-      "projectPath": "C:\\Users\\karga\\source\\repos\\Yatzy\\Yatzykombi\\Yatzykombi.csproj",
+      "projectPath": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\Yatzy\\Yatzykombi\\Yatzykombi.csproj",
       "packagesPath": "C:\\Users\\karga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karga\\source\\repos\\Yatzy\\Yatzykombi\\obj\\",
+      "outputPath": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\Yatzy\\Yatzykombi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\karga\\AppData\\Roaming\\NuGet\\NuGet.Config",

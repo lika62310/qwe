@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karga\\source\\repos\\Yatzy\\Hold\\Hold.csproj",
+      "projectUniqueName": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\Yatzy\\Hold\\Hold.csproj",
       "projectName": "Hold",
-      "projectPath": "C:\\Users\\karga\\source\\repos\\Yatzy\\Hold\\Hold.csproj",
+      "projectPath": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\Yatzy\\Hold\\Hold.csproj",
       "packagesPath": "C:\\Users\\karga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karga\\source\\repos\\Yatzy\\Hold\\obj\\",
+      "outputPath": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\Yatzy\\Hold\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\karga\\AppData\\Roaming\\NuGet\\NuGet.Config",
