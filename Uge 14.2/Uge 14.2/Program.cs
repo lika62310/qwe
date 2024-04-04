@@ -10,7 +10,7 @@
             Student[] students = handler.LoadStudents();
 
             //Menu (Opgave 4.4)
-            Console.WriteLine("Sorter lister efter: \n1. Navn\n2. Gruppenummer");
+            Console.WriteLine("Sortér lister efter: \n1. Navn\n2. Gruppenummer");
             int choice = int.Parse(Console.ReadLine());
             switch(choice)
             {

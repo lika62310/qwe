@@ -74,26 +74,6 @@ namespace Uge_14._2
             return students;
         }
 
-        //public List<Student> readstudents()
-        //{
-        //    student[] students = new student[100];
-        //    string line;
-        //    try
-        //    {
-        //        streamreader sr = new streamreader(datafilename);
-        //        line = sr.readline();
-
-        //        while (line != null)
-        //        {
-        //            string[] parts = line.split(',');
-        //            string fullname = parts[0];
-        //            int groupnumber = int.parse(parts[1]);
-        //            students.
-        //        }
-
-        //    }
-        //}
-
         public Student[] LoadStudents()
         {
             StreamReader sr = new StreamReader(DataFileName);
@@ -114,16 +94,5 @@ namespace Uge_14._2
 
         }
 
-        //public void SavePerson (Person person)
-        //{
-        //    string docPath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
-
-        //    using (StreamWriter outputFile = new StreamWriter(Path.Combine(docPath, DataFileName)))
-        //    {
-        //        outputFile.WriteLine(person.MakeTitle());
-        //    }
-        //    Console.WriteLine(person.MakeTitle() + "1");
-
-        //}
     }
 }
