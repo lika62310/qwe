@@ -1,0 +1,14 @@
+C:\Users\karga\Desktop\LK\Genspil\GenspilLager\GenspilLager\bin\Debug\net8.0\GenspilLager.exe
+C:\Users\karga\Desktop\LK\Genspil\GenspilLager\GenspilLager\bin\Debug\net8.0\GenspilLager.deps.json
+C:\Users\karga\Desktop\LK\Genspil\GenspilLager\GenspilLager\bin\Debug\net8.0\GenspilLager.runtimeconfig.json
+C:\Users\karga\Desktop\LK\Genspil\GenspilLager\GenspilLager\bin\Debug\net8.0\GenspilLager.dll
+C:\Users\karga\Desktop\LK\Genspil\GenspilLager\GenspilLager\bin\Debug\net8.0\GenspilLager.pdb
+C:\Users\karga\Desktop\LK\Genspil\GenspilLager\GenspilLager\obj\Debug\net8.0\GenspilLager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karga\Desktop\LK\Genspil\GenspilLager\GenspilLager\obj\Debug\net8.0\GenspilLager.AssemblyInfoInputs.cache
+C:\Users\karga\Desktop\LK\Genspil\GenspilLager\GenspilLager\obj\Debug\net8.0\GenspilLager.AssemblyInfo.cs
+C:\Users\karga\Desktop\LK\Genspil\GenspilLager\GenspilLager\obj\Debug\net8.0\GenspilLager.csproj.CoreCompileInputs.cache
+C:\Users\karga\Desktop\LK\Genspil\GenspilLager\GenspilLager\obj\Debug\net8.0\GenspilLager.dll
+C:\Users\karga\Desktop\LK\Genspil\GenspilLager\GenspilLager\obj\Debug\net8.0\refint\GenspilLager.dll
+C:\Users\karga\Desktop\LK\Genspil\GenspilLager\GenspilLager\obj\Debug\net8.0\GenspilLager.pdb
+C:\Users\karga\Desktop\LK\Genspil\GenspilLager\GenspilLager\obj\Debug\net8.0\GenspilLager.genruntimeconfig.cache
+C:\Users\karga\Desktop\LK\Genspil\GenspilLager\GenspilLager\obj\Debug\net8.0\ref\GenspilLager.dll
