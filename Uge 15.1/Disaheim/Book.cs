@@ -29,6 +29,7 @@ namespace Disaheim
             Title = title;
         }
 
+
         //("ItemId: 11, Quality: medium, Design: ")
 
         public string ToString()
@@ -36,5 +37,6 @@ namespace Disaheim
             string s =$"ItemId: {ItemId}, Title: {Title}, Price: {Price}";
             return s;
         }
+
     }
 }
