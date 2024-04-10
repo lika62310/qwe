@@ -1,4 +1,7 @@
-﻿namespace GenspilLager
+﻿using System.Net.Sockets;
+using static System.Net.Mime.MediaTypeNames;
+
+namespace GenspilLager
 {
     internal class Program
     {
@@ -11,17 +14,16 @@
             Stock stock = new Stock("lagerliste.txt");
             //Game[] list = Stock.AddGames();
 
-            //Game[] games2 = stock.ReadToArray();
-            //for (int i = 0; i < 5; i++)
-            //{
-            //    Console.WriteLine(games2[i]);
-            //}
+            List<Game> games2 = stock.ReadToList();
+            for (int i = 0; i < games2.Count; i++)
+            {
+                Console.WriteLine(games2[i].Title);
+            }
 
 
             //stock.WriteGames(list);
             //stock.ReadGames();
 
-            // ggggggggggg
             while (true)
             {
 
@@ -35,15 +37,44 @@
             switch (choice)
             {
                 case "1":
-                        //implementér søgning
+                        Console.WriteLine("Indtast søgeterm:");
+                        string search = Console.ReadLine();
+
+                        Filter.SearchTitle(stock.ReadToList(), search);
+                        
                     break;
                 case "2":
                     stock.WriteGames(Stock.AddGames());
                     break;
                 case "3":
-                    Console.Clear();
-                    stock.ReadGames();
-                    //sortér
+                        Console.Clear();
+
+                        Console.WriteLine("Vælg visning: ");
+                        Console.WriteLine("1. Usorteret");
+                        Console.WriteLine("2. Sorteret eter navn");
+                        Console.WriteLine("3. Sorteret eter pris");
+                        string sortchoice = Console.ReadLine();
+                        if (sortchoice == "1")
+                            stock.ReadGames();
+                        else if (sortchoice == "2")
+                        {
+                            List<Game> games = Filter.SortListTitle(stock.ReadToList());
+
+                            foreach (Game game in games)
+                            {
+                                Console.WriteLine(game.CreateGameString());
+                            }
+                        }
+                        else if (sortchoice == "3")
+                        {
+                            List<Game> games = Filter.SortListPrice(stock.ReadToList());
+
+                            foreach (Game game in games)
+                            {
+                                Console.WriteLine(game.CreateGameString());
+                            }
+                        }
+
                     break;
             }
                 Console.WriteLine("Ønsker du at lukke? y/n");

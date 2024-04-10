@@ -28,6 +28,7 @@ namespace GenspilLager
             Condition = condition;
             Amount = amount;
             Price = price;
+            ReservedBy = " ";
         }
         public Game(string title, string version, string category, int minplayers, int maxplayers, string condition, int amount, int price, string reservedBy)
         {
@@ -44,7 +45,12 @@ namespace GenspilLager
 
         public string CreateGameString()
         {
-            string str = $"{Title} ({Version}), {Category} {MinPlayers}-{MaxPlayers}, {Condition}, {Amount} styk, {Price} kr.";
+            string str = " ";
+            if (ReservedBy == " ")
+            str = $"{Title} ({Version}), {Category}, {MinPlayers}-{MaxPlayers}, {Condition}, {Amount} styk, {Price} kr.";
+            else
+                str = $"{Title} ({Version}), {Category}, {MinPlayers}-{MaxPlayers}, {Condition}, {Amount} styk, {Price} kr.,  Reserveret af {ReservedBy}";
+
             return str;
         }
 
