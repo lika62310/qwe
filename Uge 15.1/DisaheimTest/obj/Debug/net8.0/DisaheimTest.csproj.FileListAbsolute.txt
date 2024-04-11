@@ -116,3 +116,5 @@ C:\Users\karga\Desktop\LK\Projekter\qwe\Uge 15.1\DisaheimTest\obj\Debug\net8.0\r
 C:\Users\karga\Desktop\LK\Projekter\qwe\Uge 15.1\DisaheimTest\obj\Debug\net8.0\DisaheimTest.pdb
 C:\Users\karga\Desktop\LK\Projekter\qwe\Uge 15.1\DisaheimTest\obj\Debug\net8.0\DisaheimTest.genruntimeconfig.cache
 C:\Users\karga\Desktop\LK\Projekter\qwe\Uge 15.1\DisaheimTest\obj\Debug\net8.0\ref\DisaheimTest.dll
+C:\Users\karga\Desktop\LK\Projekter\qwe\Uge 15.1\DisaheimTest\bin\Debug\net8.0\UtilityLib.dll
+C:\Users\karga\Desktop\LK\Projekter\qwe\Uge 15.1\DisaheimTest\bin\Debug\net8.0\UtilityLib.pdb
