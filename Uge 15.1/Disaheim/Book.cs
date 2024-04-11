@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace Disaheim
 {
-    public class Book
+    public class Book : Merchandise
     {
-        public string ItemId { get; set; }
         public string Title { get; set; }
         public double Price { get; set; }
 
+
+        public Book() { }
         public Book(string itemId, string title, double price)
         {
             ItemId = itemId;
@@ -32,7 +33,7 @@ namespace Disaheim
 
         //("ItemId: 11, Quality: medium, Design: ")
 
-        public string ToString()
+        public override string ToString()
         {
             string s =$"ItemId: {ItemId}, Title: {Title}, Price: {Price}";
             return s;
