@@ -10,10 +10,16 @@ namespace Disaheim
     {
         public string ItemId { get; set; }
 
-        public override string ToString()
+        public Merchandise()
         {
-            string s = $"ItemId: {ItemId}";
-            return s;
+
         }
+
+        public Merchandise(string itemId)
+        {
+            ItemId = itemId;
+        }
+
+        public abstract string ToString();
     }
 }
