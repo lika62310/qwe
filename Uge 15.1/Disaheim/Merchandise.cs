@@ -22,6 +22,32 @@ namespace Disaheim
 
         public abstract string ToString();
 
-        public abstract double GetValue();
+
+        public double GetValue(Merchandise merchandise)
+        {
+            double price = 0;
+            if (merchandise is Book)
+            {
+                Book book = (Book)merchandise;
+                price = book.Price;
+            }
+            else if (merchandise is Amulet)
+            {
+                Amulet amulet = (Amulet)merchandise;
+                switch (amulet.Quality)
+                {
+                    case Level.low:
+                        price = amulet.LowQualityValue;
+                        break;
+                    case Level.medium:
+                        price = amulet.MediumQualityValue;
+                        break;
+                    case Level.high:
+                        price = amulet.HighQualityValue;
+                        break;
+                }
+            }
+            return price;
+        }
     }
 }

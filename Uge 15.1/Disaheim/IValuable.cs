@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Disaheim
 {
-    internal interface IValuable
+    public interface IValuable
     {
-        public double GetValue();
+        public double GetValue(IValuable valuable);
     }
 }

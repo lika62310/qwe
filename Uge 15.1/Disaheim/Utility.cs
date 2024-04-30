@@ -9,10 +9,10 @@ namespace Disaheim
     public class Utility
     {
 
-        public double LowQualityValue { get; set; } = 12.5;
-        public double MediumQualityValue { get; set; } = 20.0;
-        public double HighQualityValue { get; set; } = 27.5;
-        public double CourseHourValue { get; set; } = 875.0;
+        //public double LowQualityValue { get; set; } = 12.5;
+        //public double MediumQualityValue { get; set; } = 20.0;
+        //public double HighQualityValue { get; set; } = 27.5;
+        //public double CourseHourValue { get; set; } = 875.0;
 
 
 
@@ -37,43 +37,43 @@ namespace Disaheim
         //    return 1;
         //}
 
-        public double GetValueOfMerchandise(Merchandise merchandise)
-        {
-            double price = 0;
-            if (merchandise is Book)
-            {
-                Book book = (Book)merchandise;
-                price = book.Price;
-            }
-            else if (merchandise is Amulet)
-            {
-                Amulet amulet = (Amulet)merchandise;
-                switch (amulet.Quality)
-                {
-                    case Level.low:
-                        price = LowQualityValue;
-                        break;
-                    case Level.medium:
-                        price = MediumQualityValue;
-                        break;
-                    case Level.high:
-                        price = HighQualityValue;
-                        break;
-                }
-            }
-            return price;
-        }
+        //public double GetValueOfMerchandise(Merchandise merchandise)
+        //{
+        //    double price = 0;
+        //    if (merchandise is Book)
+        //    {
+        //        Book book = (Book)merchandise;
+        //        price = book.Price;
+        //    }
+        //    else if (merchandise is Amulet)
+        //    {
+        //        Amulet amulet = (Amulet)merchandise;
+        //        switch (amulet.Quality)
+        //        {
+        //            case Level.low:
+        //                price = LowQualityValue;
+        //                break;
+        //            case Level.medium:
+        //                price = MediumQualityValue;
+        //                break;
+        //            case Level.high:
+        //                price = HighQualityValue;
+        //                break;
+        //        }
+        //    }
+        //    return price;
+        //}
 
-        public double GetValueOfCourse(Course course)
-        {
-            if (course.DurationInMinutes % 60 == 0)
-            {
-                return ((course.DurationInMinutes / 60)) * CourseHourValue;
-            }
-            else
-            {
-                return ((course.DurationInMinutes / 60) + 1) * CourseHourValue;
-            }
-        }
+        //public double GetValueOfCourse(Course course)
+        //{
+        //    if (course.DurationInMinutes % 60 == 0)
+        //    {
+        //        return ((course.DurationInMinutes / 60)) * CourseHourValue;
+        //    }
+        //    else
+        //    {
+        //        return ((course.DurationInMinutes / 60) + 1) * CourseHourValue;
+        //    }
+        //}
     }
 }

@@ -7,10 +7,11 @@ using System.Threading.Tasks;
 
 namespace Disaheim
 {
-    public class Course
+    public class Course : IValuable
     {
         public string Name { get; set; }
         public int DurationInMinutes { get; set; }
+        public double CourseHourValue { get; set; } = 875.0;
 
         public Course(string name)
         {
@@ -28,6 +29,17 @@ namespace Disaheim
         {
             string s = $"Name: {Name}, Duration in Minutes: {DurationInMinutes}";
             return s;
+        }
+        public double GetValue(Course course)
+        {
+            if (course.DurationInMinutes % 60 == 0)
+            {
+                return ((course.DurationInMinutes / 60)) * CourseHourValue;
+            }
+            else
+            {
+                return ((course.DurationInMinutes / 60) + 1) * CourseHourValue;
+            }
         }
     }
 }
