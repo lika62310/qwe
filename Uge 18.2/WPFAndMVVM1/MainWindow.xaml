@@ -1,0 +1,24 @@
+﻿<Window x:Class="WPFAndMVVM1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFAndMVVM1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="l1" Content="{Binding Path=Text, ElementName=tb1}" HorizontalAlignment="Left" Margin="102,81,0,0" VerticalAlignment="Top" RenderTransformOrigin="-4.078,0.185"/>
+        <TextBox x:Name="tb1" Text="TextBox1" HorizontalAlignment="Left" Margin="203,85,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="164" TextChanged="TextBox_TextChanged"/>
+        <TextBox x:Name="tb2" Text="{Binding Path=Text, ElementName=tb3, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" HorizontalAlignment="Left" Margin="102,152,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged"/>
+        <TextBox x:Name="tb3" Text="TextBox3" HorizontalAlignment="Left" Margin="247,152,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged"/>
+        <TextBox x:Name="tb4" Text="{Binding Path=Value, ElementName=s1, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" HorizontalAlignment="Left" Margin="247,0,0,0" TextWrapping="Wrap"  VerticalAlignment="Center" Width="120" TextChanged="TextBox_TextChanged"/>
+        <Slider x:Name="s1" Minimum="0" Maximum="100" HorizontalAlignment="Left" Margin="102,0,0,0" VerticalAlignment="Center" Width="120"/>
+        <Slider x:Name="s2" Value="{Binding Path=Text, ElementName=tb5, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Minimum="0" Maximum="100" HorizontalAlignment="Left" Margin="102,269,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="tb5" Text="0" HorizontalAlignment="Left" Margin="247,269,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged"/>
+        <Label Content="{Binding MyLabelText, UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Left" Margin="102,320,0,0" VerticalAlignment="Top"/>
+        <Button Content="Update Label" HorizontalAlignment="Left" Margin="295,325,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <TextBox x:Name="tb6" Text="{Binding MyTextBoxText, UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Left" Margin="92,369,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged"/>
+        <Button x:Name="b2" Content="Update TextBox" HorizontalAlignment="Left" Margin="295,369,0,0" VerticalAlignment="Top" Click="B2_Click"/>
+
+    </Grid>
+</Window>

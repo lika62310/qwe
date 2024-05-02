@@ -20,6 +20,7 @@ namespace WPFPerson
         public MainWindow()
         {
             InitializeComponent();
+            DataContext = controller;
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
@@ -32,6 +33,10 @@ namespace WPFPerson
             tbLN.IsEnabled = true;
             tbAge.IsEnabled = true;
             tbTN.IsEnabled = true;
+            tbFN.Text = "";
+            tbLN.Text = "";
+            //tbAge.Text = "";
+            tbTN.Text = "";
         }
 
         private void tbFN_TextChanged(object sender, TextChangedEventArgs e)
@@ -56,7 +61,7 @@ namespace WPFPerson
 
         private void DelPers_Click(object sender, RoutedEventArgs e)
         {
-
+            controller.DeletePerson();
         }
 
         private void Up_Click(object sender, RoutedEventArgs e)

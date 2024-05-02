@@ -26,7 +26,8 @@ namespace WPFPerson
             Person person = new Person();
             CurrentPerson = person;
             personRepo.AddPerson(person);
-            PersonCount = personRepo.Count;
+            //PersonCount = personRepo.Count;
+            PersonCount = PersonCount++;
             PersonIndex = PersonCount - 1;
         }
 
