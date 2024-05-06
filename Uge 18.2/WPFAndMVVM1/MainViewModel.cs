@@ -27,7 +27,7 @@ namespace WPFAndMVVM1
             set
             {
                 this.mytext = value;
-                OnPropertyChanged("MyTextBoxText");
+                OnPropertyChanged(nameof(MyTextBoxText));
             }
         }
 
