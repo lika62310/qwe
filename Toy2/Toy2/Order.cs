@@ -8,17 +8,18 @@ namespace Toy2
 {
     public class Order
     {
-        public string Name { get; set; }
         public int OrderID { get; set; }
         public double Cost { get; set; }
         public DateTime Date { get; set; }
 
-        public Order(string name, int orderID, double cost, DateTime date, BoxSet boxSet)
+        public List<StockItem> Items { get; set; }
+
+        public Order(int orderID, double cost, DateTime date)
         {
-            Name = name;
             OrderID = orderID;
             Cost = cost;
             Date = date;
+            Items = new List<StockItem>();
         }
     }
 }

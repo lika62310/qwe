@@ -8,5 +8,16 @@ namespace Toy2
 {
     public class ConnectorRepo
     {
+        public List<Connector> Connectors;
+
+        public ConnectorRepo()
+        {
+            Connectors = new List<Connector>();
+        }
+
+        public void AddConnector(Connector connector)
+        {
+            Connectors.Add(connector);
+        }
     }
 }

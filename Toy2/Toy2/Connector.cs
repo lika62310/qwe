@@ -9,11 +9,12 @@ namespace Toy2
     public class Connector : StockItem
     {
         public int ConnectorID { get; set; }
-        public Connector(int connectorID, string name, double cost)
+        public Connector(int connectorID, string name, double cost, int amount)
         {
             ConnectorID = connectorID;
             Name = name;
             Cost = cost;
+            Amount = amount;
         }
     }
 }

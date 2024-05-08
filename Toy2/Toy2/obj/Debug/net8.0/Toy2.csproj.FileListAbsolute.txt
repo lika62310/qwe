@@ -1,0 +1,15 @@
+C:\Users\karga\Desktop\LK\Projekter\qwe\Toy2\Toy2\bin\Debug\net8.0\Toy2.exe
+C:\Users\karga\Desktop\LK\Projekter\qwe\Toy2\Toy2\bin\Debug\net8.0\Toy2.deps.json
+C:\Users\karga\Desktop\LK\Projekter\qwe\Toy2\Toy2\bin\Debug\net8.0\Toy2.runtimeconfig.json
+C:\Users\karga\Desktop\LK\Projekter\qwe\Toy2\Toy2\bin\Debug\net8.0\Toy2.dll
+C:\Users\karga\Desktop\LK\Projekter\qwe\Toy2\Toy2\bin\Debug\net8.0\Toy2.pdb
+C:\Users\karga\Desktop\LK\Projekter\qwe\Toy2\Toy2\obj\Debug\net8.0\Toy2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karga\Desktop\LK\Projekter\qwe\Toy2\Toy2\obj\Debug\net8.0\Toy2.AssemblyInfoInputs.cache
+C:\Users\karga\Desktop\LK\Projekter\qwe\Toy2\Toy2\obj\Debug\net8.0\Toy2.AssemblyInfo.cs
+C:\Users\karga\Desktop\LK\Projekter\qwe\Toy2\Toy2\obj\Debug\net8.0\Toy2.csproj.CoreCompileInputs.cache
+C:\Users\karga\Desktop\LK\Projekter\qwe\Toy2\Toy2\obj\Debug\net8.0\Toy2.sourcelink.json
+C:\Users\karga\Desktop\LK\Projekter\qwe\Toy2\Toy2\obj\Debug\net8.0\Toy2.dll
+C:\Users\karga\Desktop\LK\Projekter\qwe\Toy2\Toy2\obj\Debug\net8.0\refint\Toy2.dll
+C:\Users\karga\Desktop\LK\Projekter\qwe\Toy2\Toy2\obj\Debug\net8.0\Toy2.pdb
+C:\Users\karga\Desktop\LK\Projekter\qwe\Toy2\Toy2\obj\Debug\net8.0\Toy2.genruntimeconfig.cache
+C:\Users\karga\Desktop\LK\Projekter\qwe\Toy2\Toy2\obj\Debug\net8.0\ref\Toy2.dll

@@ -9,7 +9,8 @@ namespace Toy2
 {
     public class DataHandler
     {
-        public string FileName { get; set; }
+        Controller controller = new Controller();
+        public string FileName { get; }
         public DataHandler(string fileName) 
         { 
             FileName = fileName;
@@ -25,7 +26,12 @@ namespace Toy2
 
         public void PrintOrders()
         {
-
+            StreamWriter sw = new StreamWriter(FileName);
+            for (int i = 0; i < controller.Connectors.Count; i++)
+            {
+                sw.WriteLine(controller.Connectors[i].Name);
+            }
+            sw.Close();
         }
 
         public void ReadOrders()
