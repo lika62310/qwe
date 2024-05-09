@@ -16,5 +16,11 @@ namespace Toy2
             Cost = cost;
             Amount = amount;
         }
+
+        public override string ToString()
+        {
+            string str = $"{ConnectorID}, {Name}, {Cost}, {Amount}";
+            return str;
+        }
     }
 }

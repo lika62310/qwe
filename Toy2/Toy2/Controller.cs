@@ -10,65 +10,33 @@ namespace Toy2
     public class Controller
     {
         //public ConnectorRepo connectorRepo;
-        public List<Connector> Connectors = new List<Connector>();
+        public List<StockItem> Connectors = new List<StockItem>();
         public Controller() 
         { 
             
         }
 
-        public void AddNewProduct(string productName, int ID, double cost, int amount) 
+        public void AddNewProduct(Connector connector) 
         {
-            Connector connector = new Connector(ID, productName, cost, amount);
-           // connectorRepo.AddConnector(connector);
            Connectors.Add(connector);   
         }
 
-        public void RemoveProduct(string productName)
+        public void RemoveProduct(Connector connector)
         {
-            //Connector connector = new Connector(ID, productName, cost);
-            //Connectors.Remove(connector);
+            Connectors.Remove(connector);
         }
 
-        public void RegisterOrder()
+        public void AddToOrder(StockItem item, Order order)
         {
-            Random rnd = new Random();
-            int orderID = rnd.Next(100000, 999999);
-            // Træk pris, temp variable
-            double ocost = 749;
-            DateTime date = DateTime.Now;
-            Order order = new Order(orderID, ocost, date);
-            bool orderDone = false; 
-            do
-            {
-                // ID
-                int ID = rnd.Next(100000, 999999);
-                // Navn
-                Console.WriteLine("Indtast produktnavn: ");
-                string name = Console.ReadLine();
-                // Pris
-                //Træk pris, temp variabel:
-                double cost = 599;
-                // Amount
-                Console.WriteLine("Indtast ønskede antal: ");
-                int amount = int.Parse(Console.ReadLine());
-                Connector connector = new Connector(ID, name, cost, amount);
-                // Tilføj til ordre
-                order.Items.Add(connector);
-                Console.WriteLine("Afslut ordre? y/n");
-                string done = Console.ReadLine();
-                if (done[0] == 'y')
-                {
-                    orderDone = true;
-                }
- 
-            }
-            while (orderDone == false);
+            //Random rnd = new Random();
+            //int orderID = rnd.Next(100000, 999999);
+            //// Træk pris, temp variable
+            //double ocost = 749;
+            //DateTime date = DateTime.Now;
+            //Order order = new Order(orderID, ocost, date);
+            order.Items.Add(item);
         }
 
-        //public void AddItem(StockItem item, List<>)
-        //{
-
-        //}
 
         public void ChangeOrder(Order order)
         {
