@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Toy2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25376ef3b98170d82b6a3a0a887124e849250042")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38fcbab000ae7403967d13aa845919afd2d541bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Toy2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Toy2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

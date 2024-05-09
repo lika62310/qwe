@@ -22,11 +22,12 @@ namespace Toy2
             Console.WriteLine(controller.Connectors[0].Name);
             handler.PrintOrders(controller.Connectors);
             handler.ReadOrders();
-            controller.AddToOrder(connector, order);
-            controller.AddToOrder(connectorBasis, order);
+            controller.AddToOrder(connector, order, 5);
+            controller.AddToOrder(connectorBasis, order, 7);
             order.UpdateCost();
             Console.WriteLine(order.Cost);
             Console.WriteLine(order.Items.Count);
+            Console.WriteLine(connector.Amount);
 
 
 

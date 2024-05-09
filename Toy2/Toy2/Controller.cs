@@ -26,7 +26,7 @@ namespace Toy2
             Connectors.Remove(connector);
         }
 
-        public void AddToOrder(StockItem item, Order order)
+        public void AddToOrder(StockItem item, Order order, int amount)
         {
             //Random rnd = new Random();
             //int orderID = rnd.Next(100000, 999999);
@@ -35,6 +35,8 @@ namespace Toy2
             //DateTime date = DateTime.Now;
             //Order order = new Order(orderID, ocost, date);
             order.Items.Add(item);
+            item.Amount -= amount;
+            
             //order.UpdateCost();
         }
 
