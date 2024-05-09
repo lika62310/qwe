@@ -42,5 +42,11 @@ namespace Toy2
         {
 
         }
+
+        public void CloseOrder(Order order)
+        {
+
+        }
+
     }
 }

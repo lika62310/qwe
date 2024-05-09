@@ -6,13 +6,18 @@
         {
             Console.WriteLine("Hello,Toy2!");
             Controller controller = new Controller();
-            DataHandler handler = new DataHandler("text.txt");
+            DataHandler handler = new DataHandler("text.csv");
             Connector connector = new Connector(123, "Anchor", 55.0, 700);
             Connector connectorBasis = new Connector(124, "Basis", 45.0, 800);
             controller.AddNewProduct(connector);
             controller.AddNewProduct(connectorBasis);
             Console.WriteLine(controller.Connectors[0].Name);
             handler.PrintOrders(controller.Connectors);
+            handler.ReadOrders();
+
+
+
+
 
 
             //Random rnd = new Random();

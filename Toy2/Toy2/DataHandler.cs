@@ -15,25 +15,27 @@ namespace Toy2
             FileName = fileName;
         }
 
-        public void CreateOrder(Order order)
-        { 
-        }
-
-        public void CloseOrder(Order order)
-        { 
-        }
-
         public void PrintOrders(List<StockItem> items)
         {
             StreamWriter sw = new StreamWriter(FileName);
+            sw.WriteLine("Id, Type, Kostpris, Antal");
             for (int i = 0; i < items.Count; i++)
             {
-                sw.WriteLine(items[i].Name);
+                sw.WriteLine(items[i].ToString());
             }
             sw.Close();
         }
 
         public void ReadOrders()
-        { }
+        {
+            StreamReader sr = new StreamReader(FileName);
+            string line = sr.ReadLine();
+            while (line != null)
+            {
+                Console.WriteLine(line);
+                line = sr.ReadLine();
+            }
+            sr.Close();
+        }
     }
 }
