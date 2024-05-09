@@ -1,9 +1,17 @@
-﻿namespace Toy2
+﻿using System.Xml.XPath;
+
+namespace Toy2
 {
     public class Program
     {
         static void Main(string[] args)
         {
+
+            Random rnd = new Random();
+            int orderID = rnd.Next(100000, 999999);
+            DateTime date = DateTime.Now;
+            Order order = new Order(orderID, date);
+
             Console.WriteLine("Hello,Toy2!");
             Controller controller = new Controller();
             DataHandler handler = new DataHandler("text.csv");
@@ -14,6 +22,12 @@
             Console.WriteLine(controller.Connectors[0].Name);
             handler.PrintOrders(controller.Connectors);
             handler.ReadOrders();
+            controller.AddToOrder(connector, order);
+            controller.AddToOrder(connectorBasis, order);
+            order.UpdateCost();
+            Console.WriteLine(order.Cost);
+            Console.WriteLine(order.Items.Count);
+
 
 
 

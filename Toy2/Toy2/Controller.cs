@@ -35,6 +35,7 @@ namespace Toy2
             //DateTime date = DateTime.Now;
             //Order order = new Order(orderID, ocost, date);
             order.Items.Add(item);
+            //order.UpdateCost();
         }
 
 
