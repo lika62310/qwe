@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karga\\Desktop\\LK\\Getting Real\\Uge 21\\ObserverPattern\\ObserverPattern.csproj": {}
+    "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\Uge 21\\ObserverPattern\\ObserverPattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karga\\Desktop\\LK\\Getting Real\\Uge 21\\ObserverPattern\\ObserverPattern.csproj": {
+    "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\Uge 21\\ObserverPattern\\ObserverPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karga\\Desktop\\LK\\Getting Real\\Uge 21\\ObserverPattern\\ObserverPattern.csproj",
+        "projectUniqueName": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\Uge 21\\ObserverPattern\\ObserverPattern.csproj",
         "projectName": "ObserverPattern",
-        "projectPath": "C:\\Users\\karga\\Desktop\\LK\\Getting Real\\Uge 21\\ObserverPattern\\ObserverPattern.csproj",
+        "projectPath": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\Uge 21\\ObserverPattern\\ObserverPattern.csproj",
         "packagesPath": "C:\\Users\\karga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karga\\Desktop\\LK\\Getting Real\\Uge 21\\ObserverPattern\\obj\\",
+        "outputPath": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\Uge 21\\ObserverPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karga\\AppData\\Roaming\\NuGet\\NuGet.Config",

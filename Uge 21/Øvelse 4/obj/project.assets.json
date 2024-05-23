@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karga\\Desktop\\LK\\Getting Real\\Uge 21\\Øvelse 4\\Øvelse 4.csproj",
+      "projectUniqueName": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\Uge 21\\Øvelse 4\\Øvelse 4.csproj",
       "projectName": "Øvelse 4",
-      "projectPath": "C:\\Users\\karga\\Desktop\\LK\\Getting Real\\Uge 21\\Øvelse 4\\Øvelse 4.csproj",
+      "projectPath": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\Uge 21\\Øvelse 4\\Øvelse 4.csproj",
       "packagesPath": "C:\\Users\\karga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karga\\Desktop\\LK\\Getting Real\\Uge 21\\Øvelse 4\\obj\\",
+      "outputPath": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\Uge 21\\Øvelse 4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\karga\\AppData\\Roaming\\NuGet\\NuGet.Config",

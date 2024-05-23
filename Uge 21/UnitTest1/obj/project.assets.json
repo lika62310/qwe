@@ -1090,11 +1090,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karga\\Desktop\\LK\\Getting Real\\Uge 21\\UnitTest1\\UnitTest1.csproj",
+      "projectUniqueName": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\Uge 21\\UnitTest1\\UnitTest1.csproj",
       "projectName": "UnitTest1",
-      "projectPath": "C:\\Users\\karga\\Desktop\\LK\\Getting Real\\Uge 21\\UnitTest1\\UnitTest1.csproj",
+      "projectPath": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\Uge 21\\UnitTest1\\UnitTest1.csproj",
       "packagesPath": "C:\\Users\\karga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karga\\Desktop\\LK\\Getting Real\\Uge 21\\UnitTest1\\obj\\",
+      "outputPath": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\Uge 21\\UnitTest1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\karga\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1111,8 +1111,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\karga\\Desktop\\LK\\Getting Real\\Uge 21\\ObserverPattern\\ObserverPattern.csproj": {
-              "projectPath": "C:\\Users\\karga\\Desktop\\LK\\Getting Real\\Uge 21\\ObserverPattern\\ObserverPattern.csproj"
+            "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\Uge 21\\ObserverPattern\\ObserverPattern.csproj": {
+              "projectPath": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\Uge 21\\ObserverPattern\\ObserverPattern.csproj"
             }
           }
         }

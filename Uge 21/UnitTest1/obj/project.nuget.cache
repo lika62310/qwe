@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6p7VWmSwgwAgxS3BDmz543zMpjJIq6jXXe9peiO58wJqhQ1LlQnUP6918GJQHg/2OiYge1Egg0UCvLfYkPK76A==",
+  "dgSpecHash": "WmwVfC69126eFni2aX1y0HKBPmNpdaptwGcxKpl5MYu9qlD2m+ESDphTHMywlcAYDjlWP6os8Q+r85ImoY7+sQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\karga\\Desktop\\LK\\Getting Real\\Uge 21\\UnitTest1\\UnitTest1.csproj",
+  "projectFilePath": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\Uge 21\\UnitTest1\\UnitTest1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\karga\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\karga\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",

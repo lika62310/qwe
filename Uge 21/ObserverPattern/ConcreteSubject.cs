@@ -8,7 +8,7 @@ namespace ObserverPattern
 {
     public class ConcreteSubject : Subject
     {
-        private int _state;
+        private int _state = 0;
         public int State
         {
             get { return _state; }

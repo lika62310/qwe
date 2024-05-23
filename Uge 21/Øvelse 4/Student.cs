@@ -21,7 +21,7 @@ namespace Øvelse_4
         public override void Update()
         {
             this.Message = subject.Message;
-            Console.WriteLine($"Studerende {Name} modtog nyheden {Message} fra akademiet {subject.Name}");
+            Console.WriteLine($"Studerende {Name} modtog nyheden '{Message}' fra akademiet {subject.Name}");
         }
     }
 }
