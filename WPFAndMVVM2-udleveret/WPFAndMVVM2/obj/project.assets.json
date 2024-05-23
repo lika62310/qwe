@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karga\\Downloads\\Uge20-WPFAndMVVM2\\WPFAndMVVM2-udleveret\\WPFAndMVVM2\\WPFAndMVVM2.csproj",
+      "projectUniqueName": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\WPFAndMVVM2-udleveret\\WPFAndMVVM2\\WPFAndMVVM2.csproj",
       "projectName": "WPFAndMVVM2",
-      "projectPath": "C:\\Users\\karga\\Downloads\\Uge20-WPFAndMVVM2\\WPFAndMVVM2-udleveret\\WPFAndMVVM2\\WPFAndMVVM2.csproj",
+      "projectPath": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\WPFAndMVVM2-udleveret\\WPFAndMVVM2\\WPFAndMVVM2.csproj",
       "packagesPath": "C:\\Users\\karga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karga\\Downloads\\Uge20-WPFAndMVVM2\\WPFAndMVVM2-udleveret\\WPFAndMVVM2\\obj\\",
+      "outputPath": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\WPFAndMVVM2-udleveret\\WPFAndMVVM2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\karga\\AppData\\Roaming\\NuGet\\NuGet.Config",
