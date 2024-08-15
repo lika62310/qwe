@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\cositas\\TheMovies\\TheMovies\\TheMovies.csproj",
+      "projectUniqueName": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\TheMovies\\TheMovies\\TheMovies.csproj",
       "projectName": "TheMovies",
-      "projectPath": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\cositas\\TheMovies\\TheMovies\\TheMovies.csproj",
+      "projectPath": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\TheMovies\\TheMovies\\TheMovies.csproj",
       "packagesPath": "C:\\Users\\karga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\cositas\\TheMovies\\TheMovies\\obj\\",
+      "outputPath": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\TheMovies\\TheMovies\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\karga\\AppData\\Roaming\\NuGet\\NuGet.Config",

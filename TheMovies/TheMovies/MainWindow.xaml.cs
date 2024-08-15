@@ -23,12 +23,13 @@ namespace TheMovies
             DataContext = this;
 
             MovieRepo = new MovieRepository();
+            MovieRepo.AddMoviesFromList("Uge33-TheMovies.csv");
             lbMovies.ItemsSource = MovieRepo.Movies;
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            MovieRepo.AddMovie(new Movie(tbTitle.Text, int.Parse(tbDuration.Text), tbGenre.Text));
+            MovieRepo.AddMovie(new Movie(tbTitle.Text, tbDuration.Text, tbGenre.Text));
 
         }
 
