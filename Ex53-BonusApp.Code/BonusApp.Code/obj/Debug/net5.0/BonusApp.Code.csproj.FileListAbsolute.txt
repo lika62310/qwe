@@ -1,0 +1,16 @@
+C:\Users\karga\Downloads\Ex53-BonusApp.Code\BonusApp.Code\bin\Debug\net5.0\BonusApp.Code.exe
+C:\Users\karga\Downloads\Ex53-BonusApp.Code\BonusApp.Code\bin\Debug\net5.0\BonusApp.Code.deps.json
+C:\Users\karga\Downloads\Ex53-BonusApp.Code\BonusApp.Code\bin\Debug\net5.0\BonusApp.Code.runtimeconfig.json
+C:\Users\karga\Downloads\Ex53-BonusApp.Code\BonusApp.Code\bin\Debug\net5.0\BonusApp.Code.runtimeconfig.dev.json
+C:\Users\karga\Downloads\Ex53-BonusApp.Code\BonusApp.Code\bin\Debug\net5.0\BonusApp.Code.dll
+C:\Users\karga\Downloads\Ex53-BonusApp.Code\BonusApp.Code\bin\Debug\net5.0\BonusApp.Code.pdb
+C:\Users\karga\Downloads\Ex53-BonusApp.Code\BonusApp.Code\obj\Debug\net5.0\BonusApp.Code.csproj.AssemblyReference.cache
+C:\Users\karga\Downloads\Ex53-BonusApp.Code\BonusApp.Code\obj\Debug\net5.0\BonusApp.Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karga\Downloads\Ex53-BonusApp.Code\BonusApp.Code\obj\Debug\net5.0\BonusApp.Code.AssemblyInfoInputs.cache
+C:\Users\karga\Downloads\Ex53-BonusApp.Code\BonusApp.Code\obj\Debug\net5.0\BonusApp.Code.AssemblyInfo.cs
+C:\Users\karga\Downloads\Ex53-BonusApp.Code\BonusApp.Code\obj\Debug\net5.0\BonusApp.Code.csproj.CoreCompileInputs.cache
+C:\Users\karga\Downloads\Ex53-BonusApp.Code\BonusApp.Code\obj\Debug\net5.0\BonusApp.Code.dll
+C:\Users\karga\Downloads\Ex53-BonusApp.Code\BonusApp.Code\obj\Debug\net5.0\refint\BonusApp.Code.dll
+C:\Users\karga\Downloads\Ex53-BonusApp.Code\BonusApp.Code\obj\Debug\net5.0\BonusApp.Code.pdb
+C:\Users\karga\Downloads\Ex53-BonusApp.Code\BonusApp.Code\obj\Debug\net5.0\BonusApp.Code.genruntimeconfig.cache
+C:\Users\karga\Downloads\Ex53-BonusApp.Code\BonusApp.Code\obj\Debug\net5.0\ref\BonusApp.Code.dll
