@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\ExtensionsEvents\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86AE2D9C-1972-4D06-9569-C803483F2D4F}|MetronomeDelegate\\MetronomeDelegate.csproj|c:\\users\\karga\\desktop\\lk\\projekter\\qwe\\extensionsevents\\metronomedelegate\\metronome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86AE2D9C-1972-4D06-9569-C803483F2D4F}|MetronomeDelegate\\MetronomeDelegate.csproj|solutionrelative:metronomedelegate\\metronome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF73DBD9-A492-4D0D-81F7-F840BA17CE4C}|EventsPiggybank\\EventsPiggybank.csproj|c:\\users\\karga\\desktop\\lk\\projekter\\qwe\\extensionsevents\\eventspiggybank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF73DBD9-A492-4D0D-81F7-F840BA17CE4C}|EventsPiggybank\\EventsPiggybank.csproj|solutionrelative:eventspiggybank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF73DBD9-A492-4D0D-81F7-F840BA17CE4C}|EventsPiggybank\\EventsPiggybank.csproj|c:\\users\\karga\\desktop\\lk\\projekter\\qwe\\extensionsevents\\eventspiggybank\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF73DBD9-A492-4D0D-81F7-F840BA17CE4C}|EventsPiggybank\\EventsPiggybank.csproj|solutionrelative:eventspiggybank\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF73DBD9-A492-4D0D-81F7-F840BA17CE4C}|EventsPiggybank\\EventsPiggybank.csproj|c:\\users\\karga\\desktop\\lk\\projekter\\qwe\\extensionsevents\\eventspiggybank\\piggybank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF73DBD9-A492-4D0D-81F7-F840BA17CE4C}|EventsPiggybank\\EventsPiggybank.csproj|solutionrelative:eventspiggybank\\piggybank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86AE2D9C-1972-4D06-9569-C803483F2D4F}|MetronomeDelegate\\MetronomeDelegate.csproj|c:\\users\\karga\\desktop\\lk\\projekter\\qwe\\extensionsevents\\metronomedelegate\\ticklistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86AE2D9C-1972-4D06-9569-C803483F2D4F}|MetronomeDelegate\\MetronomeDelegate.csproj|solutionrelative:metronomedelegate\\ticklistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86AE2D9C-1972-4D06-9569-C803483F2D4F}|MetronomeDelegate\\MetronomeDelegate.csproj|c:\\users\\karga\\desktop\\lk\\projekter\\qwe\\extensionsevents\\metronomedelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86AE2D9C-1972-4D06-9569-C803483F2D4F}|MetronomeDelegate\\MetronomeDelegate.csproj|solutionrelative:metronomedelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF73DBD9-A492-4D0D-81F7-F840BA17CE4C}|EventsPiggybank\\EventsPiggybank.csproj|c:\\users\\karga\\desktop\\lk\\projekter\\qwe\\extensionsevents\\eventspiggybank\\eventspiggybank.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF73DBD9-A492-4D0D-81F7-F840BA17CE4C}|EventsPiggybank\\EventsPiggybank.csproj|solutionrelative:eventspiggybank\\eventspiggybank.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF73DBD9-A492-4D0D-81F7-F840BA17CE4C}|EventsPiggybank\\EventsPiggybank.csproj|c:\\users\\karga\\desktop\\lk\\projekter\\qwe\\extensionsevents\\eventspiggybank\\customeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF73DBD9-A492-4D0D-81F7-F840BA17CE4C}|EventsPiggybank\\EventsPiggybank.csproj|solutionrelative:eventspiggybank\\customeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5472F4FC-972D-443C-B4E8-1B11DC4F3BEE}|Metronome1\\Metronome1.csproj|c:\\users\\karga\\desktop\\lk\\projekter\\qwe\\extensionsevents\\metronome1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5472F4FC-972D-443C-B4E8-1B11DC4F3BEE}|Metronome1\\Metronome1.csproj|solutionrelative:metronome1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5472F4FC-972D-443C-B4E8-1B11DC4F3BEE}|Metronome1\\Metronome1.csproj|c:\\users\\karga\\desktop\\lk\\projekter\\qwe\\extensionsevents\\metronome1\\metronome1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5472F4FC-972D-443C-B4E8-1B11DC4F3BEE}|Metronome1\\Metronome1.csproj|solutionrelative:metronome1\\metronome1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A706BFD3-E8DB-46AF-B79E-DB0EDCA077D5}|ExtensionsEvents\\ExtensionsEvents.csproj|c:\\users\\karga\\desktop\\lk\\projekter\\qwe\\extensionsevents\\extensionsevents\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A706BFD3-E8DB-46AF-B79E-DB0EDCA077D5}|ExtensionsEvents\\ExtensionsEvents.csproj|solutionrelative:extensionsevents\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5472F4FC-972D-443C-B4E8-1B11DC4F3BEE}|Metronome1\\Metronome1.csproj|c:\\users\\karga\\desktop\\lk\\projekter\\qwe\\extensionsevents\\metronome1\\metronome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5472F4FC-972D-443C-B4E8-1B11DC4F3BEE}|Metronome1\\Metronome1.csproj|solutionrelative:metronome1\\metronome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5472F4FC-972D-443C-B4E8-1B11DC4F3BEE}|Metronome1\\Metronome1.csproj|c:\\users\\karga\\desktop\\lk\\projekter\\qwe\\extensionsevents\\metronome1\\ticklistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5472F4FC-972D-443C-B4E8-1B11DC4F3BEE}|Metronome1\\Metronome1.csproj|solutionrelative:metronome1\\ticklistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A706BFD3-E8DB-46AF-B79E-DB0EDCA077D5}|ExtensionsEvents\\ExtensionsEvents.csproj|c:\\users\\karga\\desktop\\lk\\projekter\\qwe\\extensionsevents\\extensionsevents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A706BFD3-E8DB-46AF-B79E-DB0EDCA077D5}|ExtensionsEvents\\ExtensionsEvents.csproj|solutionrelative:extensionsevents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E201BC6-731B-4397-A122-EE62CB948583}|TestProject1\\TestProject1.csproj|c:\\users\\karga\\desktop\\lk\\projekter\\qwe\\extensionsevents\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E201BC6-731B-4397-A122-EE62CB948583}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E201BC6-731B-4397-A122-EE62CB948583}|TestProject1\\TestProject1.csproj|c:\\users\\karga\\desktop\\lk\\projekter\\qwe\\extensionsevents\\testproject1\\testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E201BC6-731B-4397-A122-EE62CB948583}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\ExtensionsEvents\\EventsPiggybank\\Program.cs",
+              "RelativeDocumentMoniker": "EventsPiggybank\\Program.cs",
+              "ToolTip": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\ExtensionsEvents\\EventsPiggybank\\Program.cs",
+              "RelativeToolTip": "EventsPiggybank\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:52:21.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\ExtensionsEvents\\EventsPiggybank\\Customer.cs",
+              "RelativeDocumentMoniker": "EventsPiggybank\\Customer.cs",
+              "ToolTip": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\ExtensionsEvents\\EventsPiggybank\\Customer.cs",
+              "RelativeToolTip": "EventsPiggybank\\Customer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:02:36.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Piggybank.cs",
+              "DocumentMoniker": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\ExtensionsEvents\\EventsPiggybank\\Piggybank.cs",
+              "RelativeDocumentMoniker": "EventsPiggybank\\Piggybank.cs",
+              "ToolTip": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\ExtensionsEvents\\EventsPiggybank\\Piggybank.cs",
+              "RelativeToolTip": "EventsPiggybank\\Piggybank.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:54:06.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Metronome.cs",
+              "DocumentMoniker": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\ExtensionsEvents\\MetronomeDelegate\\Metronome.cs",
+              "RelativeDocumentMoniker": "MetronomeDelegate\\Metronome.cs",
+              "ToolTip": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\ExtensionsEvents\\MetronomeDelegate\\Metronome.cs",
+              "RelativeToolTip": "MetronomeDelegate\\Metronome.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:20:49.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventsPiggybank",
+              "DocumentMoniker": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\ExtensionsEvents\\EventsPiggybank\\EventsPiggybank.csproj",
+              "RelativeDocumentMoniker": "EventsPiggybank\\EventsPiggybank.csproj",
+              "ToolTip": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\ExtensionsEvents\\EventsPiggybank\\EventsPiggybank.csproj",
+              "RelativeToolTip": "EventsPiggybank\\EventsPiggybank.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T12:40:11.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\ExtensionsEvents\\EventsPiggybank\\CustomEventArgs.cs",
+              "RelativeDocumentMoniker": "EventsPiggybank\\CustomEventArgs.cs",
+              "ToolTip": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\ExtensionsEvents\\EventsPiggybank\\CustomEventArgs.cs",
+              "RelativeToolTip": "EventsPiggybank\\CustomEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:55:08.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\ExtensionsEvents\\Metronome1\\Program.cs",
+              "RelativeDocumentMoniker": "Metronome1\\Program.cs",
+              "ToolTip": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\ExtensionsEvents\\Metronome1\\Program.cs",
+              "RelativeToolTip": "Metronome1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:04:32.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\ExtensionsEvents\\MetronomeDelegate\\Program.cs",
+              "RelativeDocumentMoniker": "MetronomeDelegate\\Program.cs",
+              "ToolTip": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\ExtensionsEvents\\MetronomeDelegate\\Program.cs",
+              "RelativeToolTip": "MetronomeDelegate\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:20:23.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TickListener.cs",
+              "DocumentMoniker": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\ExtensionsEvents\\MetronomeDelegate\\TickListener.cs",
+              "RelativeDocumentMoniker": "MetronomeDelegate\\TickListener.cs",
+              "ToolTip": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\ExtensionsEvents\\MetronomeDelegate\\TickListener.cs",
+              "RelativeToolTip": "MetronomeDelegate\\TickListener.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:21:03.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Metronome1",
+              "DocumentMoniker": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\ExtensionsEvents\\Metronome1\\Metronome1.csproj",
+              "RelativeDocumentMoniker": "Metronome1\\Metronome1.csproj",
+              "ToolTip": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\ExtensionsEvents\\Metronome1\\Metronome1.csproj",
+              "RelativeToolTip": "Metronome1\\Metronome1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T12:31:20.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\ExtensionsEvents\\ExtensionsEvents\\Extensions.cs",
+              "RelativeDocumentMoniker": "ExtensionsEvents\\Extensions.cs",
+              "ToolTip": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\ExtensionsEvents\\ExtensionsEvents\\Extensions.cs",
+              "RelativeToolTip": "ExtensionsEvents\\Extensions.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T06:59:55.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Metronome.cs",
+              "DocumentMoniker": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\ExtensionsEvents\\Metronome1\\Metronome.cs",
+              "RelativeDocumentMoniker": "Metronome1\\Metronome.cs",
+              "ToolTip": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\ExtensionsEvents\\Metronome1\\Metronome.cs",
+              "RelativeToolTip": "Metronome1\\Metronome.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:05:11.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TickListener.cs",
+              "DocumentMoniker": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\ExtensionsEvents\\Metronome1\\TickListener.cs",
+              "RelativeDocumentMoniker": "Metronome1\\TickListener.cs",
+              "ToolTip": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\ExtensionsEvents\\Metronome1\\TickListener.cs",
+              "RelativeToolTip": "Metronome1\\TickListener.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:05:27.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\ExtensionsEvents\\ExtensionsEvents\\Program.cs",
+              "RelativeDocumentMoniker": "ExtensionsEvents\\Program.cs",
+              "ToolTip": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\ExtensionsEvents\\ExtensionsEvents\\Program.cs",
+              "RelativeToolTip": "ExtensionsEvents\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T06:58:24.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\ExtensionsEvents\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\ExtensionsEvents\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:07:16.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TestProject1",
+              "DocumentMoniker": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\ExtensionsEvents\\TestProject1\\TestProject1.csproj",
+              "RelativeDocumentMoniker": "TestProject1\\TestProject1.csproj",
+              "ToolTip": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\ExtensionsEvents\\TestProject1\\TestProject1.csproj",
+              "RelativeToolTip": "TestProject1\\TestProject1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T07:08:46.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

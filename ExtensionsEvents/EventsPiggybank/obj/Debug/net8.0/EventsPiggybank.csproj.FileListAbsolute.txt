@@ -1,0 +1,15 @@
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\EventsPiggybank\obj\Debug\net8.0\EventsPiggybank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\EventsPiggybank\obj\Debug\net8.0\EventsPiggybank.AssemblyInfoInputs.cache
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\EventsPiggybank\obj\Debug\net8.0\EventsPiggybank.AssemblyInfo.cs
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\EventsPiggybank\obj\Debug\net8.0\EventsPiggybank.csproj.CoreCompileInputs.cache
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\EventsPiggybank\obj\Debug\net8.0\EventsPiggybank.sourcelink.json
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\EventsPiggybank\bin\Debug\net8.0\EventsPiggybank.exe
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\EventsPiggybank\bin\Debug\net8.0\EventsPiggybank.deps.json
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\EventsPiggybank\bin\Debug\net8.0\EventsPiggybank.runtimeconfig.json
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\EventsPiggybank\bin\Debug\net8.0\EventsPiggybank.dll
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\EventsPiggybank\bin\Debug\net8.0\EventsPiggybank.pdb
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\EventsPiggybank\obj\Debug\net8.0\EventsPiggybank.dll
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\EventsPiggybank\obj\Debug\net8.0\refint\EventsPiggybank.dll
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\EventsPiggybank\obj\Debug\net8.0\EventsPiggybank.pdb
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\EventsPiggybank\obj\Debug\net8.0\EventsPiggybank.genruntimeconfig.cache
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\EventsPiggybank\obj\Debug\net8.0\ref\EventsPiggybank.dll

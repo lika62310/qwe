@@ -1,0 +1,15 @@
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\Metronome1\bin\Debug\net8.0\Metronome1.exe
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\Metronome1\bin\Debug\net8.0\Metronome1.deps.json
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\Metronome1\bin\Debug\net8.0\Metronome1.runtimeconfig.json
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\Metronome1\bin\Debug\net8.0\Metronome1.dll
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\Metronome1\bin\Debug\net8.0\Metronome1.pdb
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\Metronome1\obj\Debug\net8.0\Metronome1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\Metronome1\obj\Debug\net8.0\Metronome1.AssemblyInfoInputs.cache
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\Metronome1\obj\Debug\net8.0\Metronome1.AssemblyInfo.cs
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\Metronome1\obj\Debug\net8.0\Metronome1.csproj.CoreCompileInputs.cache
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\Metronome1\obj\Debug\net8.0\Metronome1.sourcelink.json
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\Metronome1\obj\Debug\net8.0\Metronome1.dll
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\Metronome1\obj\Debug\net8.0\refint\Metronome1.dll
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\Metronome1\obj\Debug\net8.0\Metronome1.pdb
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\Metronome1\obj\Debug\net8.0\Metronome1.genruntimeconfig.cache
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\Metronome1\obj\Debug\net8.0\ref\Metronome1.dll

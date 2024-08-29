@@ -1,0 +1,15 @@
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\ExtensionsEvents\bin\Debug\net8.0\ExtensionsEvents.exe
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\ExtensionsEvents\bin\Debug\net8.0\ExtensionsEvents.deps.json
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\ExtensionsEvents\bin\Debug\net8.0\ExtensionsEvents.runtimeconfig.json
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\ExtensionsEvents\bin\Debug\net8.0\ExtensionsEvents.dll
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\ExtensionsEvents\bin\Debug\net8.0\ExtensionsEvents.pdb
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\ExtensionsEvents\obj\Debug\net8.0\ExtensionsEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\ExtensionsEvents\obj\Debug\net8.0\ExtensionsEvents.AssemblyInfoInputs.cache
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\ExtensionsEvents\obj\Debug\net8.0\ExtensionsEvents.AssemblyInfo.cs
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\ExtensionsEvents\obj\Debug\net8.0\ExtensionsEvents.csproj.CoreCompileInputs.cache
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\ExtensionsEvents\obj\Debug\net8.0\ExtensionsEvents.sourcelink.json
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\ExtensionsEvents\obj\Debug\net8.0\ExtensionsEvents.dll
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\ExtensionsEvents\obj\Debug\net8.0\refint\ExtensionsEvents.dll
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\ExtensionsEvents\obj\Debug\net8.0\ExtensionsEvents.pdb
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\ExtensionsEvents\obj\Debug\net8.0\ExtensionsEvents.genruntimeconfig.cache
+C:\Users\karga\Desktop\LK\Projekter\qwe\ExtensionsEvents\ExtensionsEvents\obj\Debug\net8.0\ref\ExtensionsEvents.dll
