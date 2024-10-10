@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6918D92D-6F66-4558-A922-ED03B583BC20}|BonusAppUnitTest\\BonusAppUnitTest.csproj|c:\\users\\karga\\desktop\\lk\\projekter\\qwe\\bonusappunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6918D92D-6F66-4558-A922-ED03B583BC20}|BonusAppUnitTest\\BonusAppUnitTest.csproj|solutionrelative:bonusappunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA759AA-67E9-4260-A46D-3B1FD6D59870}|BonusApp\\BonusApp.csproj|c:\\users\\karga\\desktop\\lk\\projekter\\qwe\\bonusapp\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA759AA-67E9-4260-A46D-3B1FD6D59870}|BonusApp\\BonusApp.csproj|solutionrelative:bonusapp\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA759AA-67E9-4260-A46D-3B1FD6D59870}|BonusApp\\BonusApp.csproj|c:\\users\\karga\\desktop\\lk\\projekter\\qwe\\bonusapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA759AA-67E9-4260-A46D-3B1FD6D59870}|BonusApp\\BonusApp.csproj|solutionrelative:bonusapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA759AA-67E9-4260-A46D-3B1FD6D59870}|BonusApp\\BonusApp.csproj|c:\\users\\karga\\desktop\\lk\\projekter\\qwe\\bonusapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA759AA-67E9-4260-A46D-3B1FD6D59870}|BonusApp\\BonusApp.csproj|solutionrelative:bonusapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6918D92D-6F66-4558-A922-ED03B583BC20}|BonusAppUnitTest\\BonusAppUnitTest.csproj|c:\\users\\karga\\desktop\\lk\\projekter\\qwe\\bonusappunittest\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6918D92D-6F66-4558-A922-ED03B583BC20}|BonusAppUnitTest\\BonusAppUnitTest.csproj|solutionrelative:bonusappunittest\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA759AA-67E9-4260-A46D-3B1FD6D59870}|BonusApp\\BonusApp.csproj|c:\\users\\karga\\desktop\\lk\\projekter\\qwe\\bonusapp\\bonuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA759AA-67E9-4260-A46D-3B1FD6D59870}|BonusApp\\BonusApp.csproj|solutionrelative:bonusapp\\bonuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6918D92D-6F66-4558-A922-ED03B583BC20}|BonusAppUnitTest\\BonusAppUnitTest.csproj|c:\\users\\karga\\desktop\\lk\\projekter\\qwe\\bonusappunittest\\bonusappunittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6918D92D-6F66-4558-A922-ED03B583BC20}|BonusAppUnitTest\\BonusAppUnitTest.csproj|solutionrelative:bonusappunittest\\bonusappunittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\BonusAppUnitTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "BonusAppUnitTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\BonusAppUnitTest\\UnitTest1.cs",
+              "RelativeToolTip": "BonusAppUnitTest\\UnitTest1.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAAAJMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:43:03.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\BonusAppUnitTest\\Usings.cs",
+              "RelativeDocumentMoniker": "BonusAppUnitTest\\Usings.cs",
+              "ToolTip": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\BonusAppUnitTest\\Usings.cs",
+              "RelativeToolTip": "BonusAppUnitTest\\Usings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:39:42.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\BonusApp\\Order.cs",
+              "RelativeDocumentMoniker": "BonusApp\\Order.cs",
+              "ToolTip": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\BonusApp\\Order.cs",
+              "RelativeToolTip": "BonusApp\\Order.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAEkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:36:30.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\BonusApp\\Program.cs",
+              "RelativeDocumentMoniker": "BonusApp\\Program.cs",
+              "ToolTip": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\BonusApp\\Program.cs",
+              "RelativeToolTip": "BonusApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:33:45.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\BonusApp\\Product.cs",
+              "RelativeDocumentMoniker": "BonusApp\\Product.cs",
+              "ToolTip": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\BonusApp\\Product.cs",
+              "RelativeToolTip": "BonusApp\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:40:27.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bonuses.cs",
+              "DocumentMoniker": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\BonusApp\\Bonuses.cs",
+              "RelativeDocumentMoniker": "BonusApp\\Bonuses.cs",
+              "ToolTip": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\BonusApp\\Bonuses.cs",
+              "RelativeToolTip": "BonusApp\\Bonuses.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:27:36.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BonusAppUnitTest",
+              "DocumentMoniker": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\BonusAppUnitTest\\BonusAppUnitTest.csproj",
+              "RelativeDocumentMoniker": "BonusAppUnitTest\\BonusAppUnitTest.csproj",
+              "ToolTip": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\qwe\\BonusAppUnitTest\\BonusAppUnitTest.csproj",
+              "RelativeToolTip": "BonusAppUnitTest\\BonusAppUnitTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-10T06:42:59.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
